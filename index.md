@@ -1,4 +1,5 @@
 ---
+id: "skunk-works-comms-badge"
 title: "Skunk Works: Comms Badge"
 author: Shawn Van Der Poel
 version: 0.1
@@ -13,8 +14,8 @@ universe: Original
 rating: PG-13
 date_created: 2025-05-01
 cover_art: assets/images/cover-art.png
-summary: In a world torn by civil war, a rogue nerdy engineer code named 'Echo' must develop a secure communication device that could unify her community, her state, and the entire the fragmented resistance.
-story_hook: One message. One prototype. The fate of a rebellion rests on your wits and a soldering iron.
+summary: "In a world torn by civil war, a rogue nerdy engineer code named 'Echo' must develop a secure communication device that could unify her community, her state, and the entire the fragmented resistance."
+story_hook: "One message. One prototype. The fate of a rebellion rests on your wits and a soldering iron."
 stardate_start: "2026"
 stardate_end: "2053"
 acts:
