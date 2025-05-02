@@ -1,6 +1,6 @@
 ---
-title: Skunk Works: Comms Badge
-author: Shawn Van Der Poel
+title: "Skunk Works: Comms Badge"
+author: "Shawn Van Der Poel"
 version: 0.1
 tags:
   - "#storykit"
@@ -9,24 +9,23 @@ tags:
   - "#communications"
   - "#civil-war"
   - "#tech-resistance"
-universe: Original
-rating: PG-13
-date_created: 2025-05-01
-cover_art: assets/images/cover-art.png
-summary: > 
-In a world torn by civil war, a rogue engineer codenamed "Echo" must develop a secure communication device that could unify the fragmented resistance.
-story_hook: >
-One message. One prototype. The fate of a rebellion rests on your soldering iron.
+universe: "Original"
+rating: "PG-13"
+date_created: "2025-05-01"
+cover_art: "assets/images/cover-art.png"
+summary: "In a world torn by civil war, a rogue engineer codenamed Echo must develop a secure communication device that could unify the fragmented resistance."
+story_hook: "One message. One prototype. The fate of a rebellion rests on your soldering iron."
 stardate_start: "2026"
 stardate_end: "2053"
 acts:
-  act1: Comms Badge
+  act1: "Comms Badge"
 persons:
-  - file: persons/echo.md
+  - file: "persons/echo.md"
 places:
-  - file: places/underground-workshop.md
+  - file: "places/underground-workshop.md"
 things:
-  - file: things/comms-badge.md
+  - file: "things/comms-badge.md"
+
 ---
 # The Comms Badge
 
@@ -74,7 +73,7 @@ This is the birth of the comms badge.
 :::
 
 :::scene1
-### Her HomeLab
+### Echo's HomeLab
 
 :::prompt
 A dim, jury-rigged lab hums within a remote wooded cabin, hidden deep in the forests far from any 
