@@ -136,5 +136,11 @@ A symbol that one day will be worn on the chest of explorers, not rebels.
 This is the birth of the **comms badge**.
 :::
 
+:::branch
+A: :::act2:::scene1 We can stay here and compromise this place, we need to keep our main location hidden
+B: :::act3:::scene1 We blow this this place to hell, find a new hide out
+C: :::act4:::scene1 We need to join forces with the rebels and get help from the militia 
+:::
+
 
 ::: :::
