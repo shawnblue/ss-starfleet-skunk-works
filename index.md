@@ -80,8 +80,13 @@ Subspace communications were theorized by mid-21st-century physicists—possibly
 - Its design integrated analog HAM principles, resistance-era encryption protocols, and, unknowingly, subspace resonance—making it the first known human-built device to interface with subspace directly.
 - Activated in 2050, the communicator enabled real-time, secure mesh networking across scattered resistance cells. 
 - This breakthrough allowed rebel groups to coordinate counteroffensives, share intelligence, and disrupt regime strongholds that relied on isolation tactics.
-- The communicator wasn’t just a tool—it was a turning point. Historians credit EOL’s prototype with enabling the formation of a unified planetary resistance network, which would eventually evolve into the diplomatic and exploratory body known as **Starfleet**.
+- The communicator wasn’t just a tool—it was a turning point. Historians credit EOL’s prototype with enabling the formation of a unified planetary resistance network, which would eventually evolve into the diplomatic and exploratory body known as 
+
+**Starfleet**.
 - Later iterations of the communicator would be worn as **comms badges**, becoming a symbol of unification, exploration, and peace across the galaxy.
+
+**Current Location**:
+- Earth 2025
 :::
 
 :::summary
@@ -101,7 +106,12 @@ This is the story of how one outlaw engineer built the first node of what would 
 
 Some even say it was not Warp Drive that attracted the Volcans it was our Subspace communications that Echo was expermenting with was the real first beacon to the outside world that earth existed.
 :::
-:::
+
+:::branch
+A: :::act2:::scene1 We can stay here and compromise this place, we need to keep our main location hidden
+B: :::act3:::scene1 We blow this this place to hell, find a new hide out
+C: :::act4:::scene1 We need to join forces with the rebels and get help from the militia 
+::: :::
 
 
 
