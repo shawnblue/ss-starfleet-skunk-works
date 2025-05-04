@@ -32,7 +32,6 @@ things:
 # Skunk Works: Comms Badge
 :::prompt
 :::backstory
-
 #### Characters
 **~(echo)**:
 - Real name: Echo  
@@ -107,18 +106,20 @@ This is the story of how one outlaw engineer built the first node of what would 
 Some even say it was not Warp Drive that attracted the Volcans it was our Subspace communications that Echo was expermenting with was the real first beacon to the outside world that earth existed.
 :::
 
-:::branch
-A: :::act2:::scene1 We can stay here and compromise this place, we need to keep our main location hidden
-B: :::act3:::scene1 We blow this this place to hell, find a new hide out
-C: :::act4:::scene1 We need to join forces with the rebels and get help from the militia 
-::: :::
+The story is narrated by our main character Mack Teller, he is acting as the narrator to the story you the reader have not created yet. 
+
+Open the story! Give the reader the following options
+
+:::branchA:::act2:::scene1:::text We can stay here and compromise this place, we need to keep our main location hidden:::prompt the #universe-master put the reader at EOL secret hide out. and abadond off-shore drilling platform about 13 miles off the coast of Virginia:::
+:::branchB:::act3:::scene1:::text We blow this this place to hell, find a new hide out :::prompt the #universe-master put them into a chase from the evil empire as they chase them for this subspace device:::
+:::branchC:::act4:::scene1:::text We need to join forces with the rebels and get help from the militia :::prompt the #universe-master puts the reader into a militia camp in West Virginia:::
+:::
 
 
 
 :::act1
 ## Subspace
 :::prompt
-
 :::summary
 You are the smartest cyberpunk nerd on the streets, solving global problems with a soldering iron and spite.  
 The world is at war, and you’ve got a biker’s soul and a hacker’s mind.  
@@ -146,11 +147,8 @@ A symbol that one day will be worn on the chest of explorers, not rebels.
 This is the birth of the **comms badge**.
 :::
 
-:::branch
-A: :::act2:::scene1 We can stay here and compromise this place, we need to keep our main location hidden
-B: :::act3:::scene1 We blow this this place to hell, find a new hide out
-C: :::act4:::scene1 We need to join forces with the rebels and get help from the militia 
+:::branchA:::act2:::scene1:::text We can stay here and compromise this place, we need to keep our main location hidden :::prompt :::
+:::branchB:::act3:::scene1:::text We blow this this place to hell, find a new hide out :::prompt :::
+:::branchC:::act4:::scene1:::text We need to join forces with the rebels and get help from the militia :::prompt :::
+
 :::
-
-
-::: :::
