@@ -1,35 +1,40 @@
 ---
-id: 'skunk-works-comms-badge'
-title: 'Skunk Works: Comms Badge'
+id: skunk-works-comms-badge
+title: "Skunk Works: Communicator"
 author: Shawn Van Der Poel
 version: 0.1
 tags:
-  - '#storykit'
-  - '#prototype'
-  - '#rebellion'
-  - '#communications'
-  - '#civil-war'
-  - '#tech-resistance'
-universe: 'Star Trek Universe'
-rating: 'M'
-date_created: '2025-05-01'
-cover_art: 'assets/images/cover-art.png'
-summary: 'In a world torn by the third world war, you are a rogue nerdy engineer hacker handle **EOL**. You must discover subspace and invent from the ground up. A secure faster-than-light (FTL) communication device that could unify your community, your state, and the entire fragmented resistance, known as **Starfleet**'
-story_hook: 'The First **Subspace** message. One discovery, One Device. The fate of a rebellion rests on your wisdom and your soldering iron.'
-stardate_start: '2050'
-stardate_end: '1000'
+  - "#storykit"
+  - "#prototype"
+  - "#rebellion"
+  - "#communications"
+  - "#civil-war"
+  - "#tech-resistance"
+universe: Star Trek Universe
+rating: M
+date_created: 2025-05-01
+cover_art: assets/images/cover-art.png
+summary: In a world torn by the third world war, you are a rogue nerdy engineer hacker handle **EOL**. You must discover subspace and invent from the ground up. A secure faster-than-light (FTL) communication device that could unify your community, your state, and the entire fragmented resistance, known as **Starfleet**
+story_hook: The First **Subspace** message. One discovery, One Device. The fate of a rebellion rests on your wisdom and your soldering iron.
+stardate_start: "2050"
+stardate_end: "1000"
 acts:
-  act1: 'Comms Badge'
+  act1: Comms Badge
 persons:
-  - file: 'persons/echo.md'
-  - file: 'persons/commander-mack-teller.md'
+  - file: persons/echo.md
+  - file: persons/commander-mack-teller.md
 places:
-  - file: 'places/underground-workshop.md'
+  - file: places/underground-workshop.md
 things:
-  - file: 'things/comms-badge.md'
+  - file: things/comms-badge.md
 ---
 
-# Skunk Works: Comms Badge
+# Skunk Works: Communicator
+
+:::act1
+## Have you ever heard of EOL?
+:::scene1
+## The Legend of Subspace
 :::prompt
 :::backstory
 #### Characters
@@ -89,7 +94,7 @@ Subspace communications were theorized by mid-21st-century physicists—possibly
 :::
 
 :::summary
-> **Narrated by Commander Mack Teller, Starfleet Historical Archives, Stardate 6243.5 (circa 2380, shortly after Voyager's return from the Delta Quadrant)**
+**Narrated by Commander Mack Teller, Starfleet Historical Archives, Stardate 6243.5 (circa 2380, shortly after Voyager's return from the Delta Quadrant)**
 
 You want to know where it all began? The real story—not the propaganda or the postwar academy lectures? Then forget the polished halls of Starfleet Command. Forget the prime-time heroes with clean boots and a crisp salute. This story starts in the mud. In the ash. In the silence between dying signals.
 
@@ -106,19 +111,27 @@ This is the story of how one outlaw engineer built the first node of what would 
 Some even say it was not Warp Drive that attracted the Volcans it was our Subspace communications that Echo was expermenting with was the real first beacon to the outside world that earth existed.
 :::
 
-The story is narrated by our main character Mack Teller, he is acting as the narrator to the story you the reader have not created yet. 
+:::setting
+Opening the story with Mack Teller sitting by a campfire telling new Daystrom recruits a campfire story about Echo.
 
-Open the story! Give the reader the following options
+The story is narrated by our main character Mack Teller, he is acting as the narrator to the story you the reader have not created yet. 
+:::
 
 :::branchA:::act2:::scene1:::text We can stay here and compromise this place, we need to keep our main location hidden:::prompt the #universe-master put the reader at EOL secret hide out. and abadond off-shore drilling platform about 13 miles off the coast of Virginia:::
 :::branchB:::act3:::scene1:::text We blow this this place to hell, find a new hide out :::prompt the #universe-master put them into a chase from the evil empire as they chase them for this subspace device:::
-:::branchC:::act4:::scene1:::text We need to join forces with the rebels and get help from the militia :::prompt the #universe-master puts the reader into a militia camp in West Virginia:::
+:::branchC:::act4:::scene1:::text We need to join forces with the rebels and get help from the militia :::prompt the #universe-master puts the reader into a militia camp in West Virginia :::
+::: 
+:::
+:::
+:::
+:::
 :::
 
 
-
-:::act1
-## Subspace
+:::act2
+## Cyberpunk 
+:::scene1
+### Subspace
 :::prompt
 :::summary
 You are the smartest cyberpunk nerd on the streets, solving global problems with a soldering iron and spite.  
@@ -152,3 +165,10 @@ This is the birth of the **comms badge**.
 :::branchC:::act4:::scene1:::text We need to join forces with the rebels and get help from the militia :::prompt :::
 
 :::
+:::
+:::
+
+:::
+:::
+:::
+
