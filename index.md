@@ -17,7 +17,7 @@ cover_art: assets/images/cover-art.png
 summary: In a world torn by the third world war, you are a rogue nerdy engineer hacker handle **EOL**. You must discover subspace and invent from the ground up. A secure faster-than-light (FTL) communication device that could unify your community, your state, and the entire fragmented resistance, known as **Starfleet**
 story_hook: The First **Subspace** message. One discovery, One Device. The fate of a rebellion rests on your wisdom and your soldering iron.
 stardate_start: "2050"
-stardate_end: "1000"
+stardate_end: "2055"
 acts:
   act1: Comms Badge
 persons:
